@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vinachitra
-- 👀 I’m interested in Java, Phyton and Cyber Security
-- 🌱 I’m currently learning Java & Phyton
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in JavaScript, Phyton and Cyber Security
+- 💞️ I’m looking to collaborate on JavaScript and Python
 
 <!---
 vinachitra/vinachitra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
