@@ -1,4 +1,4 @@
-👋 Hi there! I'm Vina Chitra
+👋 Hi there! I'm Revina Chitra S.
 I hold a Bachelor’s degree in Chemistry 🧪 and a Master’s degree in Chemical Engineering 🔬, and I’m currently expanding my journey into the world of technology 🚀.
 I enjoy exploring mobile development, cloud computing, backend development, and cybersecurity as I transition into the tech industry.
 
